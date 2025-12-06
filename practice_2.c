@@ -15,3 +15,5 @@ int main() {
 // "\\" adds a single \ after the text
 // "\"" adds a double quote after the text
 // "\n" adds a new line after the text
+/* adding this comment makes it able to type 
+multiple lines as many as i want*/
