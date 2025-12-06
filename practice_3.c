@@ -21,5 +21,6 @@ int main() {
     printf("I am %d years old today.\n", myNum);
     printf("I have %.2f in my gcash wallet.\n", myFloat);
     printf("My first name starts with %c.\n", myChar);
+    printf("Hello my name is Michael, it starts with \"%c\" and I am %d years old. I am not rich but i have %.2f in my gcash right now", myChar, myNum, myFloat);
     return 0;
 }
