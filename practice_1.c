@@ -1,0 +1,10 @@
+#include <stdio.h>
+
+int main() {
+    char name[] = "Michael Patrick Reyes";
+    printf("Hello %s", name);
+    return 0;
+}
+
+// This program prints a greeting message with the name "Michael Patrick Reyes".
+// To run the compile the program, start with "gcc <file name> -o hello then execute "./hello" in the terminal.
