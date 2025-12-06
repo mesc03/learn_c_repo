@@ -7,7 +7,7 @@ int main() {
     printf("\nEnjoy the learning");
     printf("\nThis line when print\t, produces space");
     printf("\nThis line produces a backslash after this text\\");
-    printf("\nThis line adds a double quote after this text\"");
+    printf("\n\nThis line adds a double quote after this text\"");
     return 0;
 }
 
