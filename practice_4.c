@@ -11,12 +11,19 @@
 // and then after, run it by "gcc practice_X.c -o practice_X" or "./practice_X"
 
 #include <stdio.h>
-int main() {
+/* int main() {
     int x = 11;
     int y = 11;
     int sum  = x + y; // output would be 22
     printf("This is how old i am %d", sum);
-}
+} */
 
 // if there are any changes to the code always compile it first before running it again.
 // gcc practice_X.c -o practice_X and then do ./practice_X 
+
+#include <stdio.h>
+int main() {
+    int x = 10, y = 10, z = 1;
+    printf("My true age would be %d\n", x + y + z);
+    return 0;
+}
