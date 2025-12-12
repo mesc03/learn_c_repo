@@ -22,8 +22,16 @@
 // gcc practice_X.c -o practice_X and then do ./practice_X 
 
 #include <stdio.h>
-int main() {
+/* int main() {
     int x = 10, y = 10, z = 1;
     printf("My true age would be %d\n", x + y + z);
     return 0;
-}
+} */
+
+#include <stdio.h>
+int main() {
+    int x, y, z;
+    x = y = z = 10;
+    printf("I would be too old if i told you my age was %d\n", x + y + z);
+    return 0;
+} 
