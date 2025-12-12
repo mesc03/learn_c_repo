@@ -40,11 +40,11 @@
 // variable names
 #include <stdio.h>
 
-int main() {
+/* int main() {
   int ageThisYear = 60;
   int a = 60;
   
   printf("The age i would want to be at to retire: %d\n", ageThisYear);
   printf("A shortcut varaiable produced this number: %d\n", a);
   return 0;
-}
+} */
